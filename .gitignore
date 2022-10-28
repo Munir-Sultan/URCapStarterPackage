@@ -1,0 +1,8 @@
+#vscode files
+.history/
+.vscode/
+
+# eclipse project file
+.settings/
+.classpath
+.project
